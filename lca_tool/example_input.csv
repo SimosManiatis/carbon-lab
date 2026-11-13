@@ -1,0 +1,7 @@
+scheme,material,element,quantity,unit,rebar,description
+1,concrete C32/40,slab,420,m3,General Slab,Baseline floors
+1,concrete C32/40,foundation,180,m3,,Raft
+1,steel sections,beam,38000,kg,,Steel beams
+2,CLT,slab,310,m3,,CLT floors
+2,glulam,column,45,m3,,Glulam columns
+2,concrete C32/40,foundation,150,m3,130,Lighter raft

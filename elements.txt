@@ -1,0 +1,17 @@
+Element nr, element type, material type, unit, area, volume, old/new constructed
+0, Facade, glass, m2, 1000, 200, old
+1, Facade, glass, m2, 478.72, 5.74, new
+2, Floor, CLT, m2, 2400, 480, new
+3, Foundation, concrete C32/40, m2, 600, 300, new
+
+0, Facade, masonry, m2, 1408, 281, old
+1, Facade, masonry, m2, 506, 101, old
+2, Facade, glass, m2, 478, 7, new
+3, Facade, timber, m2, 422, 85, new
+4, Core, reinforced concrete, m2, 176, 70, old
+5, Slab, reinforced concrete, m2, 1260, 378, old
+6, Column, steel, m3, 6, 6, old
+7, Roof, CLT, m2, 248, 75, new
+8, Facade, glass, m2, 256, 4, new
+9, Column, CLT, m3, 15, 15, new
+ 

@@ -1,0 +1,5 @@
+Element nr, element type, material type, unit, area, volume, old/new constructed
+0, Facade, glass, m2, 1000, 200, old
+1, Facade, glass, m2, 478.72, 5.74, new
+2, Floor, CLT, m2, 2400, 480, new
+3, Foundation, concrete C32/40, m2, 600, 300, new

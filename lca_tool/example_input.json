@@ -1,0 +1,21 @@
+{
+  "project": {"name": "Fellenoord hackathon", "number": "AEC-01", "typology": "Residential",
+              "design_stage": "Concept", "design_life": 50, "reinforcement": "Global avg"},
+  "schemes": {
+    "1": {"name": "Baseline - RC frame", "gia_new": 4500,
+          "rows": [
+            {"material": "concrete C32/40", "element": "slab", "quantity": 420},
+            {"material": "concrete C32/40", "element": "column", "quantity": 60, "rebar": "Medium Column"},
+            {"material": "concrete C32/40", "element": "foundation", "quantity": 180},
+            {"material": "steel sections", "element": "beam", "quantity": 38000, "unit": "kg"}
+          ]},
+    "2": {"name": "Timber hybrid + reuse", "gia_new": 4500,
+          "rows": {
+            "CLT": {"volume": 310, "element": "slab"},
+            "glulam": {"volume": 45, "element": "column"},
+            "concrete C32/40": {"volume": 150, "element": "foundation", "rebar": 130},
+            "reused steel": {"mass": 20000, "element": "beam"},
+            "screed": {"volume": 90, "element": "topping"}
+          }}
+  }
+}
